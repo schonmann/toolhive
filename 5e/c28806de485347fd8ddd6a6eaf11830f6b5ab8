@@ -1,0 +1,22 @@
+pkg/networking/http_client.go
+  s_f82010bfb7a55e::t_3fcef3ddccc242 426-430
+pkg/networking/http_client_test.go
+  s_f82010bfb7a55e::t_e3ca2e950f3afc 46-47,49-53,58
+  s_f82010bfb7a55e::t_46e6d42ee38790 48,54-57,59-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "5ec28806de485347fd8ddd6a6eaf11830f6b5ab8",
+  "prompts": {},
+  "sessions": {
+    "s_f82010bfb7a55e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b624f5d5-a1e8-41a9-84e5-bae9f9ae5f91",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Antonio Schonmann <antonio.schonmann@trmlabs.com>"
+    }
+  }
+}
