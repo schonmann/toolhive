@@ -1,0 +1,19 @@
+pkg/networking/http_client_test.go
+  s_f82010bfb7a55e::t_c5e1f3adaa5dd3 57-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "a1e3c280ae8c83576785e3fd88a74015a068f9e2",
+  "prompts": {},
+  "sessions": {
+    "s_f82010bfb7a55e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b624f5d5-a1e8-41a9-84e5-bae9f9ae5f91",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Antonio Schonmann <antonio.schonmann@trmlabs.com>"
+    }
+  }
+}
